@@ -1,0 +1,12 @@
+.header{
+    background-color: lightskyblue;
+}
+.header:hover{
+    color: chocolate;
+}
+.p1{
+    font-weight:600;
+}
+h3:hover{
+    color: chocolate;
+}
